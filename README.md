@@ -1,6 +1,9 @@
 # React Native Animated Menu
 This is a full screen animated menu where you can show category and subcategories underneath the category.
 
+# Live Demo
+Demo: <a href="https://youtu.be/c4dJtBBeUS8">Youtube Link</a>
+
 # How to run
 <ol>
   <li>Clone repo using this command: <code>git clone https://github.com/Haseeba393/react-native-animated-menu.git</code></li>
